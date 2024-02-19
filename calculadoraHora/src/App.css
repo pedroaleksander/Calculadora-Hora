@@ -1,0 +1,39 @@
+body{
+  background-image: linear-gradient(to bottom, rgb(17, 84, 172), rgb(10, 105, 168), rgb(30, 140, 214));
+  height: 100vh
+  }
+  h1{
+    text-align: center;
+    
+  }
+  .samba{
+  text-align: center;
+  border-style: double;
+  width: 400px;
+  margin: 0 auto;
+  display: block;
+  background-image: linear-gradient(to bottom, rgb(138, 138, 136), rgb(104, 104, 104));
+  }
+  input{
+      border-radius: 10px;
+      text-align: center;
+      font-size: medium;
+      width: 130px;
+      height: 30px;
+      transition: 0.5s;
+  }  
+  button{
+      background-color: rgb(208, 56, 238);
+      width: 80px;
+      height: 25px;
+      border-radius: 20px;
+  }
+  button:hover{
+      background-color: rgb(133, 18, 199);
+      
+  
+  }
+  img{
+      width: 410px;
+      margin-left: 460px;
+  }
